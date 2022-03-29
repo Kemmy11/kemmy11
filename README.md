@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**It's Kemmy11/kemmy11** 
+**It's Kemmy11** 
 
 - 🔭 I’m currently working on open source projects 
 - 🌱 I’m currently learning JAVA and Web development 
